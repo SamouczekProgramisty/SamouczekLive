@@ -1,0 +1,4 @@
+rootProject.name = 'SamouczekLive'
+
+include '20170801_ocjp'
+include '20170828_rozmowa_kwalifikacyjna'
